@@ -1,0 +1,9 @@
+#Initails files
+
+/.env
+/.vscode
+/app_error.log
+/package-lock.json
+node_modules/
+dist/
+.DS_Stores

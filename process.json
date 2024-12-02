@@ -1,0 +1,9 @@
+{
+    "script": "src/index.js",
+    "watch": true,
+    "ignore_watch": ["app_error.log"],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "name": "OrderUpEcomm"
+}
